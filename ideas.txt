@@ -2,10 +2,10 @@ trivia game:
 could include things about me
 favorite songs, favorite rappers, favorite sport, favorite food, etc.
 include a list of:
-    songs (ol)
-    rappers (ol)
-    ingredients (ul)
-    essentials (ul)
+    songs 
+    rappers 
+    ingredients 
+    essentials 
     shows
     characters
     etc.
