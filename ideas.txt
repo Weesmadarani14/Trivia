@@ -1,0 +1,28 @@
+trivia game:
+could include things about me
+favorite songs, favorite rappers, favorite sport, favorite food, etc.
+include a list of:
+    songs (ol)
+    rappers (ol)
+    ingredients (ul)
+    essentials (ul)
+    shows
+    characters
+    etc.
+trivia games will ask questions about me and history
+    multiple choice and free response
+    need buttons for multiple choice and input + button (for checking answer) for free response 
+
+HTML:
+    header for each section
+    pictures if needed
+    lists
+
+CSS:
+    background color for all sections
+    work more on flexbox = positioning 
+
+Javascript:
+    function for trivia games 
+    multiple choice and free response 
+    
