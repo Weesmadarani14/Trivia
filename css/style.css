@@ -33,3 +33,10 @@ h2 {
     width: 85%;
 }
 
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: blue;
+}
